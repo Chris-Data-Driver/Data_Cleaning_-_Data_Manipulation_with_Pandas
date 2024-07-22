@@ -1,6 +1,7 @@
 # Introduction
-![](Cleaning.png)
 This project is centered around data cleaning and manipulation using the Python library "pandas." The dataset utilized for this project was provided by Data Science Lovers on the Udemy platform.
+
+![](Cleaning.png)
 ## Problem Statement
 The objective of this project is to enable participants to become proficient in data cleaning and manipulation using the Pandas library in Python, a crucial skill for data analysts.
 ## Skills Demonstrated
@@ -28,6 +29,7 @@ Filtered cars with horsepower greater than 200 using data[data['horsepower'] > 2
 Removed cars with weight above 4000 using data[data['weight'] > 4000].
 ## Data Manipulation:
 Increased the values in the MPG_City column by 3 using a __lambda__ function:
+![](Manipution.png)
 
 ## Final Analysis:
 Calculated the number of cars by region, revealing that Asia has the highest number of cars by origin.
