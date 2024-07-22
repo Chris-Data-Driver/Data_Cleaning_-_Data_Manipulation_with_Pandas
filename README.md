@@ -29,7 +29,7 @@ Filtered cars with horsepower greater than 200 using data[data['horsepower'] > 2
 Removed cars with weight above 4000 using data[data['weight'] > 4000].
 ## Data Manipulation:
 Increased the values in the MPG_City column by 3 using a __lambda__ function:
-![](Manipution.png)
+![](Manipulation.png)  
 
 ## Final Analysis:
 Calculated the number of cars by region, revealing that Asia has the highest number of cars by origin.
