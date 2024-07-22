@@ -1,4 +1,5 @@
 # Introduction
+![](Cleaning.png)
 This project is centered around data cleaning and manipulation using the Python library "pandas." The dataset utilized for this project was provided by Data Science Lovers on the Udemy platform.
 ## Problem Statement
 The objective of this project is to enable participants to become proficient in data cleaning and manipulation using the Pandas library in Python, a crucial skill for data analysts.
@@ -12,8 +13,9 @@ The objective of this project is to enable participants to become proficient in 
 The dataset used in this project is a car dataset provided by Data Science Lovers.
 ## Data Importing
 Data was imported using Pandas with the following code:
+![](Inporting.png)
 
-Data Cleaning and Analysis
+# Data Cleaning and Analysis
 ## Data Shape:
 Looking at the Dataset using the shape keyword, the dataset consists of 432 rows and 15 columns, as determined by data.shape.
 ## Handling Null Values:
